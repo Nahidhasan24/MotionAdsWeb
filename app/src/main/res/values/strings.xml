@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- profile strings -->
+
+    <string name="app_name">dashbord</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="_10_26_string">10:26</string>
+    <string name="edit_profile_information_string">Edit profile information</string>
+    <string name="edit_profile_information_ek1_string">Notifications</string>
+    <string name="english_ek1_string">ON</string>
+    <string name="edit_profile_information_ek2_string">Language</string>
+    <string name="english_ek2_string">English</string>
+    <string name="edit_profile_information_ek3_string">Help &amp; Support</string>
+    <string name="edit_profile_information_ek4_string">Contact us</string>
+    <string name="edit_profile_information_ek5_string">Privacy policy</string>
+    <string name="edit_profile_information_ek6_string">Security</string>
+    <string name="edit_profile_information_ek7_string">Theme</string>
+    <string name="english_ek7_string">Light mode</string>
+    <string name="profession_ek1_string">Profession</string>
+    <string name="student_string">Student</string>
+    <string name="contact_string">Contact</string>
+    <string name="__234_808_2344_4675_string">+234 808 2344 4675</string>
+    <string name="location_string">Location</string>
+    <string name="bangladesh_string">Bangladesh</string>
+    <string name="balance_0_string">Balance</string>
+    <string name="puerto_rico_string">Puerto Rico</string>
+    <string name="youremail_domain_com____01_234_567_89_string">youremail@domain.com | +01 234 567 89</string>
+    <string name="motion_ads_ltd_string">Motion Ads Ltd</string>
+
+
+    <string name="motion_ads_limited_string">Motion Ads Limited</string>
+
+
+    <string name="sign_up_string">Sign Up</string>
+
+    <string name="name_string">Name</string>
+
+    <string name="user_name_string">User Name</string>
+
+    <string name="email_string">Email</string>
+
+    <string name="number_string">Number</string>
+
+    <string name="password_string">Password</string>
+
+    <string name="confirm_password_string">Confirm Password</string>
+
+    <string name="_have_an_account__sign_in_string">Have an account? Sign In</string>
+
+    <string name="sign_up_ek1_string">Sign Up</string>
+</resources>

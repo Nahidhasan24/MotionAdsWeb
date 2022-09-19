@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- profile colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__profile_color">#ffffff</color>
+	<color name="_10_26_color">#ffffff</color>
+	<color name="edit_profile_information_color">#000000</color>
+	<color name="english_ek1_color">#ff5001</color>
+	<color name="ellipse_11_color">#f5f5f5</color>
+	<color name="rectangle_1_ek1_color">#562d2d</color>
+	<color name="ellipse_3_ek1_color">#0b3143</color>
+
+	<!-- sign_up colors -->
+
+
+
+	<color name="_bg__sign_up_color">#FFFFFF</color>
+
+	<color name="rectangle_3_color">#C07656</color>
+</resources>
